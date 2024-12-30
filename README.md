@@ -8,6 +8,8 @@ Atualmente sou um Estudante de Ciências da Computação pela PUCRS
 -> JavaScript
 -> PHP
 ->SQL
+->Angular
+->SpringBoot
 
 ## Algumas Stacks que eu utilizo
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"></img>
