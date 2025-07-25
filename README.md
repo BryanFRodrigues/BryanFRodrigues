@@ -1,9 +1,11 @@
 # Olá, sejam bem vindos(as) ao meu perfil
  
 ## Me chamo Bryan Flores Rodrigues
-Atualmente sou um Estudante de Ciências da Computação pela PUCRS
+Tenho experiência com diversas linguagens de programação, incluindo Java, JavaScript, PHP e Python, com foco principal em Java. Estou sempre em busca de novos desafios que me permitam aprimorar minhas habilidades e aplicar meus conhecimentos em projetos práticos.
 
-## Possuo Conhecimento em seguintes linguagens:
+Sinta-se à vontade para explorar meus repositórios e acompanhar minha jornada como desenvolvedor!
+
+## Possuo Conhecimento em seguintes linguagens e Tecnologias:
 -> Java
 -> JavaScript
 -> PHP
